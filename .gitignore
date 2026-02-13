@@ -1,0 +1,7 @@
+.env
+standards.txt
+update_standards.py
+.venv/
+__pycache__/
+*.pyc
+.idea
