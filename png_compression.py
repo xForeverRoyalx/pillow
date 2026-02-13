@@ -57,7 +57,7 @@ def compress_png_logo(input_path, output_path, quality=85, max_width=800):
 
 
 def main():
-    input_file = "c:/assets/quickerqr_logo_raw.png"
+    input_file = "c:/path/to/input.png"
 
     # Check if input file exists
     if not os.path.exists(input_file):

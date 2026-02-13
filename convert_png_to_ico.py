@@ -1,6 +1,6 @@
 from PIL import Image
 
-img = Image.open(r"c:/assets/quickerqr_logo_raw.png")
+img = Image.open(r"c:/path/to/input.png")
 # Convert to RGBA if it isn't already
 img = img.convert('RGBA')
 # Create a new square image
